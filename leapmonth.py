@@ -9,7 +9,7 @@ def main():
         print("year is more 0")
 
         return
-    if month < 0 || month > 12:
+    if month < 0 or month > 12:
         print("Error in month")
         print("month is from 1 to 12")
         print("command is 'python3 year month'")
