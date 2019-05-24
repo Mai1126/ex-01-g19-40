@@ -17,6 +17,7 @@ def main():
         return
 
     d = {}
+    
     for m in [1, 3, 5, 7, 8, 10, 12]:
         d[m] = 31
     for m in [4, 6, 9, 11]:
